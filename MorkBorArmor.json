@@ -1,0 +1,42 @@
+[
+	{
+	"DiceValue": 1,
+	"ArmorName":"no armor",
+	"ArmorBeschreibung": "no armor",
+	"ArmorValue": 0,
+	"Tier": 0,
+	"DamageDice": 4
+	},
+	{
+	"DiceValue": 2,
+	"ArmorName":"light",
+	"ArmorBeschreibung": "fur, padded cloth, leather etc, −d2 damage, tier 1",
+	"ArmorValue": 20,
+	"Tier": 1,
+	"DamageDice": 2
+	},
+	{
+	"DiceValue": 3,
+	"ArmorName":"medium armor",
+	"ArmorBeschreibung": "scale, mail etc, DR+2 on Agility tests including defence",
+	"ArmorValue": 100,
+	"Tier": 2,
+	"DamageDice": 4
+	},
+	{
+	"DiceValue": 4,
+	"ArmorName":"Heavy armor",
+	"ArmorBeschreibung": "splint, plate etc, DR+4 on Agility Tests, defence is DR+2",
+	"ArmorValue": 200,
+	"Tier": 3,
+	"DamageDice": 6
+	},
+	{
+	"DiceValue": 0,
+	"ArmorName":"shield",
+	"ArmorBeschreibung": "-1 Damage, you can choose to ignore all Damage from one Attck but Shield breaks",
+	"ArmorValue": 200,
+	"Tier": 0,
+	"DamageDice": 0
+	},
+]

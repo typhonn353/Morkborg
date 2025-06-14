@@ -1,0 +1,72 @@
+[
+	{
+	"DiceValue": 1,
+	"WeaponName":"Femur",
+	"WeaponBeschreibung": "D4 Damage, worthless",
+	"WeaponValue": 0,
+	"Schaden": 4
+	},	
+	{
+	"DiceValue": 2,
+	"WeaponName":"Staff",
+	"WeaponBeschreibung": "D4 Damage",
+	"WeaponValue": 5,
+	"Schaden": 4
+	},	
+	{
+	"DiceValue": 3,
+	"WeaponName":"Shortsword",
+	"WeaponBeschreibung": "D4 Damage",
+	"WeaponValue": 20,
+	"Schaden": 4
+	},	
+	{
+	"DiceValue": 4,
+	"WeaponName":"Knife",
+	"WeaponBeschreibung": "D4 Damage",
+	"WeaponValue": 10,
+	"Schaden": 4
+	},	
+	{
+	"DiceValue": 5,
+	"WeaponName":"Warhammer",
+	"WeaponBeschreibung": "D6 Damage",
+	"WeaponValue": 30,
+	"Schaden": 6
+	},	
+	{
+	"DiceValue": 6,
+	"WeaponName":"Sword",
+	"WeaponBeschreibung": "D6 Damage",
+	"WeaponValue": 30,
+	"Schaden": 6
+	},	
+	{
+	"DiceValue": 7,
+	"WeaponName":"Bow",
+	"WeaponBeschreibung": "D6 Damage, with Presence +10 arrows",
+	"WeaponValue": 25,
+	"Schaden": 6
+	},	
+	{
+	"DiceValue": 8,
+	"WeaponName":"Flail",
+	"WeaponBeschreibung": "D8 Damage",
+	"WeaponValue": 35,
+	"Schaden": 8
+	},	
+	{
+	"DiceValue": 9,
+	"WeaponName":"Crossbow",
+	"WeaponBeschreibung": "D8 Damage, with Presence +10 bolts",
+	"WeaponValue": 40,
+	"Schaden": 8
+	},	
+	{
+	"DiceValue": 10,
+	"WeaponName":"Zweihänder",
+	"WeaponBeschreibung": "D10 Damage",
+	"WeaponValue": 60,
+	"Schaden": 10
+	},
+]
