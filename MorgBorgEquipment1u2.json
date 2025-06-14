@@ -1,200 +1,200 @@
 [
 	{
-	"CreatorTable":"CarryingOption",
-	"DiceValue": 3,
-	"ItemName":"backpack",
-	"ItemBeschreibung": "Space for 7 normal-sized items",
-	"ItemValue": 6
+	CreatorTable:"CarryingOption",
+	DiceValue: 3,
+	ItemName:"backpack",
+	ItemBeschreibung: "Space for 7 normal-sized items",
+	ItemValue: 6
 	},
 
 	{
-	"CreatorTable":"CarryingOption",
-	"DiceValue": 4,
-	"ItemName":"sack",
-	"ItemBeschreibung":"Space for 10 normal-sized items",
-	"ItemValue": 3
+	CreatorTable:"CarryingOption",
+	DiceValue: 4,
+	ItemName:"sack",
+	ItemBeschreibung:"Space for 10 normal-sized items",
+	ItemValue: 3
 	},
 	{
-	"CreatorTable":"CarryingOption",
-	"DiceValue": 5,
-	"ItemName": "Small wagon",
-	"ItemBeschreibung":"at Creation possible to change against sack or backpack",
-	"ItemValue": 25
+	CreatorTable:"CarryingOption",
+	DiceValue: 5,
+	ItemName: "Small wagon",
+	ItemBeschreibung:"at Creation possible to change against sack or backpack",
+	ItemValue: 25
 	},
 	{
-	"CreatorTable":"CarryingOption",
-	"DiceValue": 6,
-	"ItemName": "donkey",
-	"ItemBeschreibung":"not bad. at Creation possible to change against small wagon, sack or backpack",
-	"ItemValue": 0
+	CreatorTable:"CarryingOption",
+	DiceValue: 6,
+	ItemName: "donkey",
+	ItemBeschreibung:"not bad. at Creation possible to change against small wagon, sack or backpack",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 1,
-	"ItemName": "rope",
-	"ItemBeschreibung": "30 feet long",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 1,
+	ItemName: "rope",
+	ItemBeschreibung: "30 feet long",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 2,
-	"ItemName": "torches",
-	"ItemBeschreibung": "at Creation amount = Presence + 4",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 2,
+	ItemName: "torches",
+	ItemBeschreibung: "at Creation amount = Presence + 4",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 3,
-	"ItemName": "lantern",
-	"ItemBeschreibung": "with oil for Presence + 6 hours",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 3,
+	ItemName: "lantern",
+	ItemBeschreibung: "with oil for Presence + 6 hours",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 4,
-	"ItemName": "magnesium strip",
-	"ItemBeschreibung": "",
-	"ItemValue": 4
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 4,
+	ItemName: "magnesium strip",
+	ItemBeschreibung: "",
+	ItemValue: 4
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 5,
-	"ItemName": "unclean scroll",
-	"ItemBeschreibung": "random unclean scroll, worth roughly 50s to the right buyer",
-	"ItemValue": 50
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 5,
+	ItemName: "unclean scroll",
+	ItemBeschreibung: "random unclean scroll, worth roughly 50s to the right buyer",
+	ItemValue: 50
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 6,
-	"ItemName": "sharp needle",
-	"ItemBeschreibung": "",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 6,
+	ItemName: "sharp needle",
+	ItemBeschreibung: "",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 7,
-	"ItemName": "medicine chest",
-	"ItemBeschreibung": "at creation Amount = Presence + 4 uses, stops bleeding/infection and heals D6 HP",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 7,
+	ItemName: "medicine chest",
+	ItemBeschreibung: "at creation Amount = Presence + 4 uses, stops bleeding/infection and heals D6 HP",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 8,
-	"ItemName": "metal file and lockpicks",
-	"ItemBeschreibung": "",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 8,
+	ItemName: "metal file and lockpicks",
+	ItemBeschreibung: "",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 9,
-	"ItemName": "bear trap",
-	"ItemBeschreibung": "Presence DR14 to spot, D8 damage",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 9,
+	ItemName: "bear trap",
+	ItemBeschreibung: "Presence DR14 to spot, D8 damage",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 10,
-	"ItemName": "bomb",
-	"ItemBeschreibung": "sealed bottle, D10 damage",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 10,
+	ItemName: "bomb",
+	ItemBeschreibung: "sealed bottle, D10 damage",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 11,
-	"ItemName": "Bottle of red Poison",
-	"ItemBeschreibung": "at Creation d4 doses, Toughness DR12 or D10 damage",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 11,
+	ItemName: "Bottle of red Poison",
+	ItemBeschreibung: "at Creation d4 doses, Toughness DR12 or D10 damage",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_1",
-	"DiceValue": 12,
-	"ItemName": "silver crucifix",
-	"ItemBeschreibung": "",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_1",
+	DiceValue: 12,
+	ItemName: "silver crucifix",
+	ItemBeschreibung: "",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 1,
-	"ItemName": "1 Life Elixir",
-	"ItemBeschreibung": "at creation D4 doses, heals D6 HP and removes infection",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 1,
+	ItemName: "1 Life Elixir",
+	ItemBeschreibung: "at creation D4 doses, heals D6 HP and removes infection",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 2,
-	"ItemName": "sacred scroll",
-	"ItemBeschreibung": "random sacred scroll, worth roughly 50s to the right buyer",
-	"ItemValue": 50
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 2,
+	ItemName: "sacred scroll",
+	ItemBeschreibung: "random sacred scroll, worth roughly 50s to the right buyer",
+	ItemValue: 50
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 3,
-	"ItemName": "small but vicious dog",
-	"ItemBeschreibung": "D6+2 HP, bite D4, only obeys you",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 3,
+	ItemName: "small but vicious dog",
+	ItemBeschreibung: "D6+2 HP, bite D4, only obeys you",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 4,
-	"ItemName": "Monkeys",
-	"ItemBeschreibung": "D4 monkeys that ignore but love you, D4 + 2HP, punch/bite D4",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 4,
+	ItemName: "Monkeys",
+	ItemBeschreibung: "D4 monkeys that ignore but love you, D4 + 2HP, punch/bite D4",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 5,
-	"ItemName": "exquisite parfume",
-	"ItemBeschreibung": "exquisite parfume worth 25s",
-	"ItemValue": 25
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 5,
+	ItemName: "exquisite parfume",
+	ItemBeschreibung: "exquisite parfume worth 25s",
+	ItemValue: 25
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 6,
-	"ItemName": "toolbox",
-	"ItemBeschreibung": "10 nails, tongs, hammer, small saw and drill",
-	"ItemValue": 20
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 6,
+	ItemName: "toolbox",
+	ItemBeschreibung: "10 nails, tongs, hammer, small saw and drill",
+	ItemValue: 20
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 7,
-	"ItemName": "heavy chain",
-	"ItemBeschreibung": "15 feet long",
-	"ItemValue": 10
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 7,
+	ItemName: "heavy chain",
+	ItemBeschreibung: "15 feet long",
+	ItemValue: 10
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 8,
-	"ItemName": "grappling hook",
-	"ItemBeschreibung": "",
-	"ItemValue": 12
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 8,
+	ItemName: "grappling hook",
+	ItemBeschreibung: "",
+	ItemValue: 12
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 9,
-	"ItemName": "Shield",
-	"ItemBeschreibung": "-1 HP Damage or have the shield break to ignore one Attack",
-	"ItemValue": 0
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 9,
+	ItemName: "Shield",
+	ItemBeschreibung: "-1 HP Damage or have the shield break to ignore one Attack",
+	ItemValue: 0
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 10,
-	"ItemName": "crowbar",
-	"ItemBeschreibung": "D4 damage",
-	"ItemValue": 8 
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 10,
+	ItemName: "crowbar",
+	ItemBeschreibung: "D4 damage",
+	ItemValue: 8 
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 11,
-	"ItemName": "lard",
-	"ItemBeschreibung": "may function as 5 meals in a pinch",
-	"ItemValue": 5
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 11,
+	ItemName: "lard",
+	ItemBeschreibung: "may function as 5 meals in a pinch",
+	ItemValue: 5
 	},
 	{
-	"CreatorTable":"EquipmentTable_2",
-	"DiceValue": 12,
-	"ItemName": "tent",
-	"ItemBeschreibung": "",
-	"ItemValue": 12
+	CreatorTable:"EquipmentTable_2",
+	DiceValue: 12,
+	ItemName: "tent",
+	ItemBeschreibung: "",
+	ItemValue: 12
 	}
 
 ]
